@@ -1,0 +1,29 @@
+{
+  "name": "javanese",
+  "description": "This library helps you to convert strings to its javanese slang variant",
+  "keywords": [
+    "javanese",
+    "slang",
+    "french",
+    "convert"
+  ],
+  "author": "MarceauKa",
+  "homepage": "https://github.com/MarceauKa/javanese.js#readme",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "src/Javanese.js",
+  "engines": {
+    "node": ">=15.0.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceauKa/javanese.js.git"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
