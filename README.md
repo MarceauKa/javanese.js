@@ -1,6 +1,8 @@
 # Javanese.js
 
-Javanese is an old french slang. This library helps you to convert strings to its javanese slang variant. [More info about Javanese on wikipedia](https://en.wikipedia.org/wiki/Javanais)
+Javanese is an old french slang. This library helps you to convert strings to its javanese slang variant. [More info about Javanese on wikipedia](https://en.wikipedia.org/wiki/Javanais).
+
+There's a [demo available here](https://marceauka.github.io/javanese.js/).
 
 - [Installation](#installation)
 - [Usage](#usage)
